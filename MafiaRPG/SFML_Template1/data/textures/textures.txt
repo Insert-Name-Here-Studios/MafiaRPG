@@ -1,2 +1,2 @@
-MenuBackground Grimmjow.png
-GameBackground Deidara.png
+MenuBackground MenuBackground.png
+GameBackground GameBackground.png
