@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML_Template1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  StartUpState.cpp
+c:\users\netesh\documents\visual studio 2015\projects\mafiarpg\sfml_template1\startupstate.cpp(15): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  OverworldState.cpp
+  Generating Code...
+  SFML_Template1.vcxproj -> C:\Users\Netesh\Documents\Visual Studio 2015\Projects\MafiaRPG\Debug\MafiaEngine.exe
+  SFML_Template1.vcxproj -> C:\Users\Netesh\Documents\Visual Studio 2015\Projects\MafiaRPG\Debug\MafiaEngine.pdb (Partial PDB)
